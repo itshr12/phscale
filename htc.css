@@ -1,0 +1,60 @@
+body{
+    background-color: #9C9BA0;
+    color:white;
+    padding: 20px;
+}
+h1{
+    background-color: white;
+    color:black;
+    padding: 6px;
+
+}
+p{
+    padding: 5px;
+    margin:0%;
+}
+p.q14{
+    background-color: #4538FF;
+}
+p.q13{
+    background-color: #2C4FC1;
+}
+p.q12{
+    background-color: #2B69BF;
+}
+p.q11{
+    background-color: #296BBC;
+}
+p.q10{
+    background-color: #286FBA;
+}
+p.q9{
+    background-color: #2F8AB7;
+}
+p.q8{
+    background-color: #5E98B5;
+}
+p.q7{
+    background-color: green;
+}
+p.q6{
+    background-color: #A3878A;
+}
+p.q5{
+    background-color: #A57272;
+}
+p.q4{
+    background-color: #A86563;
+}
+p.q3{
+    background-color: #AA4E53;
+}
+p.q2{
+    background-color: #AD373D;
+}
+p.q1{
+    background-color: #AF241F;
+}
+p.q0{
+    background-color: #B2000B;
+}
